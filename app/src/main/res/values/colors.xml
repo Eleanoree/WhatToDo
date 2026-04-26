@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="brand_teal">#F8D8CD</color>
+    <color name="brand_teal_dark">#B86D7C</color>
+    <color name="brand_mint">#FDEFE8</color>
+    <color name="brand_orange">#F9DCE4</color>
+    <color name="brand_red">#F3C9D3</color>
+    <color name="brand_sky">#E4EEF8</color>
+    <color name="brand_powder">#F6E8F5</color>
+    <color name="screen_bg_start">#FFFDFB</color>
+    <color name="screen_bg_end">#FFF5F8</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#FFF8FA</color>
+    <color name="text_primary">#2D241D</color>
+    <color name="text_secondary">#8A767C</color>
+    <color name="card_stroke">#EADCE2</color>
+    <color name="priority_low_bg">#F9EDEA</color>
+    <color name="priority_low_text">#8C6D72</color>
+    <color name="priority_medium_bg">#FDEBDD</color>
+    <color name="priority_medium_text">#AF705A</color>
+    <color name="priority_high_bg">#FAE1E7</color>
+    <color name="priority_high_text">#B8677B</color>
+    <color name="hero_background">#FFF1F6</color>
+    <color name="category_chip_bg">#FCEBED</color>
+    <color name="category_chip_text">#8C6A6D</color>
+    <color name="tag_chip_bg">#FCF6FB</color>
+    <color name="tag_chip_text">#7B6D76</color>
+    <color name="repeat_chip_bg">#EEF4FB</color>
+    <color name="repeat_chip_text">#7088A9</color>
+</resources>

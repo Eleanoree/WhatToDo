@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WhatToDo" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand_teal</item>
+        <item name="colorSecondary">@color/brand_orange</item>
+        <item name="colorTertiary">@color/brand_powder</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorSurfaceVariant">@color/surface_variant</item>
+        <item name="colorOutline">@color/card_stroke</item>
+        <item name="colorOnPrimary">@color/text_primary</item>
+        <item name="colorOnSecondary">@color/text_primary</item>
+        <item name="colorOnTertiary">@color/text_primary</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+    </style>
+
+    <style name="Theme.WhatToDo" parent="Base.Theme.WhatToDo" />
+</resources>

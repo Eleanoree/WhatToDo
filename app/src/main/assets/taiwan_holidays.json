@@ -1,0 +1,55 @@
+{
+  "years": {
+    "2025": {
+      "1-1": { "label": "元旦", "tone": "OFFICIAL" },
+      "1-27": { "label": "春節連假", "tone": "OFFICIAL" },
+      "1-28": { "label": "除夕", "tone": "OFFICIAL" },
+      "1-29": { "label": "春節", "tone": "OFFICIAL" },
+      "1-30": { "label": "春節", "tone": "OFFICIAL" },
+      "1-31": { "label": "春節", "tone": "OFFICIAL" },
+      "2-1": { "label": "春節", "tone": "OFFICIAL" },
+      "2-2": { "label": "春節", "tone": "OFFICIAL" },
+      "2-28": { "label": "和平紀念日", "tone": "OFFICIAL" },
+      "4-4": { "label": "兒童節", "tone": "OFFICIAL" },
+      "4-5": { "label": "清明節", "tone": "OFFICIAL" },
+      "5-1": { "label": "勞動節", "tone": "OFFICIAL" },
+      "5-31": { "label": "端午節", "tone": "OFFICIAL" },
+      "9-6": { "label": "中秋節", "tone": "OFFICIAL" },
+      "10-10": { "label": "國慶日", "tone": "OFFICIAL" },
+      "10-25": { "label": "臺灣光復紀念日", "tone": "OFFICIAL" },
+      "12-25": { "label": "行憲紀念日", "tone": "OFFICIAL" }
+    },
+    "2026": {
+      "1-1": { "label": "元旦", "tone": "OFFICIAL" },
+      "2-16": { "label": "春節連假", "tone": "OFFICIAL" },
+      "2-17": { "label": "除夕", "tone": "OFFICIAL" },
+      "2-18": { "label": "春節", "tone": "OFFICIAL" },
+      "2-19": { "label": "春節", "tone": "OFFICIAL" },
+      "2-20": { "label": "春節", "tone": "OFFICIAL" },
+      "2-21": { "label": "春節", "tone": "OFFICIAL" },
+      "2-22": { "label": "春節", "tone": "OFFICIAL" },
+      "2-28": { "label": "和平紀念日", "tone": "OFFICIAL" },
+      "4-4": { "label": "兒童節", "tone": "OFFICIAL" },
+      "4-5": { "label": "清明節", "tone": "OFFICIAL" },
+      "5-1": { "label": "勞動節", "tone": "OFFICIAL" },
+      "6-19": { "label": "端午節", "tone": "OFFICIAL" },
+      "9-25": { "label": "中秋節", "tone": "OFFICIAL" },
+      "9-28": { "label": "教師節", "tone": "OFFICIAL" },
+      "10-24": { "label": "補假", "tone": "SUBSTITUTE" },
+      "10-25": { "label": "臺灣光復紀念日", "tone": "OFFICIAL" },
+      "12-25": { "label": "行憲紀念日", "tone": "OFFICIAL" }
+    },
+    "2027": {},
+    "2028": {}
+  },
+  "fixed": {
+    "1-1": { "label": "元旦", "tone": "OFFICIAL" },
+    "2-28": { "label": "和平紀念日", "tone": "OFFICIAL" },
+    "4-4": { "label": "兒童節", "tone": "OFFICIAL" },
+    "4-5": { "label": "清明節", "tone": "OFFICIAL" },
+    "5-1": { "label": "勞動節", "tone": "OFFICIAL" },
+    "10-10": { "label": "國慶日", "tone": "OFFICIAL" },
+    "10-25": { "label": "臺灣光復紀念日", "tone": "OFFICIAL" },
+    "12-25": { "label": "行憲紀念日", "tone": "OFFICIAL" }
+  }
+}
