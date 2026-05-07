@@ -1,0 +1,23 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="260" rx="28" fill="#FFF8FA"/>
+  <rect x="28" y="28" width="1144" height="204" rx="24" fill="#FFFDFB" stroke="#EADCE2" stroke-width="2"/>
+
+  <circle cx="126" cy="130" r="52" fill="#FFF1F6"/>
+  <path d="M95 111L84 89L106 99Z" fill="#F9DCE4"/>
+  <path d="M157 111L146 99L168 89Z" fill="#F9DCE4"/>
+  <circle cx="126" cy="140" r="40" fill="#FDE6D4"/>
+  <circle cx="115" cy="133" r="4.6" fill="#2D241D"/>
+  <circle cx="137" cy="133" r="4.6" fill="#2D241D"/>
+  <path d="M122 146L126 150L130 146L126 143Z" fill="#F3C9D3"/>
+  <path d="M119 154C121 149 124 147 126 147C128 147 131 149 133 154" stroke="#2D241D" stroke-width="2.4" stroke-linecap="round"/>
+
+  <text x="220" y="100" fill="#2D241D" font-family="Arial, sans-serif" font-size="32" font-weight="700">From daily clutter to a calmer rhythm</text>
+  <text x="220" y="142" fill="#6E5D61" font-family="Arial, sans-serif" font-size="20">WhatToDo turns tasks, schedules, focus blocks, and progress reviews</text>
+  <text x="220" y="172" fill="#6E5D61" font-family="Arial, sans-serif" font-size="20">into one soft, cat-themed Android workflow.</text>
+
+  <rect x="910" y="66" width="210" height="128" rx="24" fill="#FFFFFF" stroke="#EADCE2" stroke-width="2"/>
+  <rect x="938" y="90" width="54" height="12" rx="6" fill="#FCEBED"/>
+  <rect x="938" y="114" width="88" height="12" rx="6" fill="#FDEFE8"/>
+  <rect x="938" y="138" width="122" height="12" rx="6" fill="#E4EEF8"/>
+  <path d="M938 170H1088" stroke="#EADCE2" stroke-width="2" stroke-linecap="round"/>
+</svg>

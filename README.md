@@ -21,6 +21,10 @@ WhatToDo is a native Android to-do app designed around a softer, less stressful 
 
 The current project is built with Kotlin, Android Views, Room, Coroutines/Flow, and optional Firebase support for Google sign-in plus cloud sync.
 
+<p align="center">
+  <img src="./docs/overview-strip.svg" alt="Overview illustration for WhatToDo" width="100%" />
+</p>
+
 ## Preview
 
 <p align="center">
@@ -32,6 +36,10 @@ The current project is built with Kotlin, Android Views, Room, Coroutines/Flow, 
 > These preview panels are README illustrations based on the current app structure and UI direction. They can be replaced with device screenshots later without changing the section layout.
 
 ## Core Experience
+
+<p align="center">
+  <img src="./docs/feature-strip.svg" alt="Feature overview illustration" width="100%" />
+</p>
 
 - Organize tasks with title, notes, due date, category, tags, and repeat rules
 - Filter and search tasks quickly from the home screen
@@ -73,6 +81,10 @@ flowchart LR
 - Firebase Firestore
 
 ## Architecture Notes
+
+<p align="center">
+  <img src="./docs/sync-diagram.svg" alt="Local repository and Firebase sync diagram" width="100%" />
+</p>
 
 - `ShellActivity.kt` hosts the bottom navigation shell
 - `MainActivity.kt` contains the home/task-management fragment implementation
@@ -127,6 +139,10 @@ The `google-services.json` file is intentionally ignored by git and should never
 
 ## Development Roadmap
 
+<p align="center">
+  <img src="./docs/roadmap-card.svg" alt="Development roadmap illustration" width="100%" />
+</p>
+
 - Replace README illustration panels with real device screenshots or a short demo GIF
 - Split large UI classes into smaller feature-focused files
 - Add unit tests for repository logic and repeat-rule calculations
@@ -142,3 +158,7 @@ The `google-services.json` file is intentionally ignored by git and should never
 ## License
 
 No license has been added yet. If this repository will stay public, adding a license is strongly recommended.
+
+<p align="center">
+  <img src="./docs/footer-mascot.svg" alt="Footer mascot illustration" width="100%" />
+</p>

@@ -1,0 +1,25 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="360" rx="28" fill="#FFFDFB"/>
+  <rect x="38" y="38" width="1124" height="284" rx="24" fill="#FFF8FA" stroke="#EADCE2" stroke-width="2"/>
+  <text x="76" y="98" fill="#2D241D" font-family="Arial, sans-serif" font-size="34" font-weight="700">Next Up</text>
+  <text x="76" y="132" fill="#6E5D61" font-family="Arial, sans-serif" font-size="20">A visual roadmap for turning the current app into a more polished product.</text>
+
+  <rect x="76" y="170" width="236" height="108" rx="22" fill="#FFFFFF"/>
+  <rect x="332" y="170" width="236" height="108" rx="22" fill="#FFFFFF"/>
+  <rect x="588" y="170" width="236" height="108" rx="22" fill="#FFFFFF"/>
+  <rect x="844" y="170" width="236" height="108" rx="22" fill="#FFFFFF"/>
+
+  <text x="102" y="204" fill="#8A767C" font-family="Arial, sans-serif" font-size="17" font-weight="700">01 Visual polish</text>
+  <text x="358" y="204" fill="#8A767C" font-family="Arial, sans-serif" font-size="17" font-weight="700">02 Testing</text>
+  <text x="614" y="204" fill="#8A767C" font-family="Arial, sans-serif" font-size="17" font-weight="700">03 Refactor</text>
+  <text x="870" y="204" fill="#8A767C" font-family="Arial, sans-serif" font-size="17" font-weight="700">04 Release workflow</text>
+
+  <rect x="102" y="222" width="136" height="10" rx="5" fill="#FCEBED"/>
+  <rect x="102" y="244" width="156" height="10" rx="5" fill="#FDEFE8"/>
+  <rect x="358" y="222" width="126" height="10" rx="5" fill="#FCEBED"/>
+  <rect x="358" y="244" width="172" height="10" rx="5" fill="#E4EEF8"/>
+  <rect x="614" y="222" width="142" height="10" rx="5" fill="#FDEFE8"/>
+  <rect x="614" y="244" width="166" height="10" rx="5" fill="#FCF6FB"/>
+  <rect x="870" y="222" width="122" height="10" rx="5" fill="#E4EEF8"/>
+  <rect x="870" y="244" width="174" height="10" rx="5" fill="#FCEBED"/>
+</svg>

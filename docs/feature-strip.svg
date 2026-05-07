@@ -1,0 +1,33 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="260" rx="28" fill="#FFFDFB"/>
+  <rect x="32" y="30" width="260" height="198" rx="24" fill="#FFF1F6" stroke="#EADCE2" stroke-width="2"/>
+  <rect x="324" y="30" width="260" height="198" rx="24" fill="#FDEFE8" stroke="#EADCE2" stroke-width="2"/>
+  <rect x="616" y="30" width="260" height="198" rx="24" fill="#E4EEF8" stroke="#EADCE2" stroke-width="2"/>
+  <rect x="908" y="30" width="260" height="198" rx="24" fill="#FCF6FB" stroke="#EADCE2" stroke-width="2"/>
+
+  <text x="60" y="78" fill="#8A767C" font-family="Arial, sans-serif" font-size="18" font-weight="700">Tasks</text>
+  <rect x="60" y="96" width="146" height="14" rx="7" fill="#2D241D"/>
+  <rect x="60" y="124" width="172" height="10" rx="5" fill="#8A767C" fill-opacity="0.45"/>
+  <rect x="60" y="152" width="78" height="24" rx="12" fill="#FFFFFF"/>
+
+  <text x="352" y="78" fill="#8A767C" font-family="Arial, sans-serif" font-size="18" font-weight="700">Schedule</text>
+  <rect x="352" y="100" width="176" height="74" rx="18" fill="#FFFFFF"/>
+  <path d="M370 127H510" stroke="#EADCE2" stroke-width="2"/>
+  <path d="M370 146H510" stroke="#EADCE2" stroke-width="2"/>
+  <path d="M405 100V174" stroke="#EADCE2" stroke-width="2"/>
+  <path d="M440 100V174" stroke="#EADCE2" stroke-width="2"/>
+  <circle cx="458" cy="137" r="11" fill="#F3C9D3"/>
+
+  <text x="644" y="78" fill="#8A767C" font-family="Arial, sans-serif" font-size="18" font-weight="700">Focus</text>
+  <circle cx="746" cy="138" r="44" fill="#FFFFFF" stroke="#EADCE2" stroke-width="2"/>
+  <text x="721" y="145" fill="#2D241D" font-family="Arial, sans-serif" font-size="24" font-weight="700">25m</text>
+  <rect x="682" y="188" width="128" height="12" rx="6" fill="#FFFFFF"/>
+
+  <text x="936" y="78" fill="#8A767C" font-family="Arial, sans-serif" font-size="18" font-weight="700">Analytics</text>
+  <path d="M946 165L988 132L1028 149L1070 116L1122 126" stroke="#B86D7C" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="946" cy="165" r="6" fill="#B86D7C"/>
+  <circle cx="988" cy="132" r="6" fill="#B86D7C"/>
+  <circle cx="1028" cy="149" r="6" fill="#B86D7C"/>
+  <circle cx="1070" cy="116" r="6" fill="#B86D7C"/>
+  <circle cx="1122" cy="126" r="6" fill="#B86D7C"/>
+</svg>

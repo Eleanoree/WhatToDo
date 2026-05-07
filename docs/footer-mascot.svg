@@ -1,0 +1,15 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="180" rx="24" fill="#FFF8FA"/>
+  <g transform="translate(150 90)">
+    <circle cx="0" cy="0" r="50" fill="#FFFDFB"/>
+    <path d="M-30 -16L-42 -38L-18 -28Z" fill="#F9DCE4"/>
+    <path d="M30 -16L18 -28L42 -38Z" fill="#F9DCE4"/>
+    <circle cx="0" cy="10" r="40" fill="#FDE6D4"/>
+    <circle cx="-11" cy="3" r="4.6" fill="#2D241D"/>
+    <circle cx="11" cy="3" r="4.6" fill="#2D241D"/>
+    <path d="M-4 15L0 19L4 15L0 12Z" fill="#F3C9D3"/>
+    <path d="M-8 23C-6 18 -2 16 0 16C2 16 6 18 8 23" stroke="#2D241D" stroke-width="2.6" stroke-linecap="round"/>
+  </g>
+  <text x="270" y="82" fill="#2D241D" font-family="Arial, sans-serif" font-size="34" font-weight="700">Build one small thing at a time.</text>
+  <text x="270" y="122" fill="#6E5D61" font-family="Arial, sans-serif" font-size="22">WhatToDo is designed to make daily planning feel lighter, steadier, and a little more friendly.</text>
+</svg>
