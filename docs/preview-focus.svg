@@ -1,0 +1,25 @@
+<svg width="360" height="760" viewBox="0 0 360 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="360" height="760" rx="32" fill="#FFF8FA"/>
+  <rect x="18" y="18" width="324" height="724" rx="28" fill="#FFFDFB" stroke="#EADCE2" stroke-width="2"/>
+  <rect x="42" y="52" width="72" height="18" rx="9" fill="#FCEBED"/>
+  <rect x="42" y="84" width="130" height="28" rx="14" fill="#2D241D"/>
+  <rect x="42" y="124" width="220" height="14" rx="7" fill="#8A767C" fill-opacity="0.45"/>
+
+  <circle cx="180" cy="300" r="116" fill="#FFF1F6" stroke="#EADCE2" stroke-width="2"/>
+  <circle cx="180" cy="300" r="88" fill="#FFFDFB" stroke="#F3C9D3" stroke-width="12"/>
+  <text x="137" y="295" fill="#2D241D" font-family="Arial, sans-serif" font-size="28" font-weight="700">FOCUS</text>
+  <text x="138" y="334" fill="#8A767C" font-family="Arial, sans-serif" font-size="38" font-weight="700">25:00</text>
+
+  <rect x="68" y="454" width="224" height="54" rx="27" fill="#2D241D"/>
+  <text x="132" y="488" fill="#FFFDFB" font-family="Arial, sans-serif" font-size="22" font-weight="700">Start Session</text>
+
+  <rect x="42" y="544" width="84" height="92" rx="22" fill="#FFFFFF" stroke="#EADCE2" stroke-width="2"/>
+  <rect x="138" y="544" width="84" height="92" rx="22" fill="#FFFFFF" stroke="#EADCE2" stroke-width="2"/>
+  <rect x="234" y="544" width="84" height="92" rx="22" fill="#FFFFFF" stroke="#EADCE2" stroke-width="2"/>
+  <rect x="57" y="562" width="40" height="10" rx="5" fill="#8A767C" fill-opacity="0.4"/>
+  <rect x="153" y="562" width="40" height="10" rx="5" fill="#8A767C" fill-opacity="0.4"/>
+  <rect x="249" y="562" width="40" height="10" rx="5" fill="#8A767C" fill-opacity="0.4"/>
+  <rect x="57" y="586" width="52" height="20" rx="10" fill="#FDEFE8"/>
+  <rect x="153" y="586" width="52" height="20" rx="10" fill="#FCEBED"/>
+  <rect x="249" y="586" width="52" height="20" rx="10" fill="#E4EEF8"/>
+</svg>

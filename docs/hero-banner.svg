@@ -1,0 +1,78 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="60" x2="1120" y2="580" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFDFB"/>
+      <stop offset="1" stop-color="#FFF1F6"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FFF8FA"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#EACFD8" flood-opacity="0.7"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="640" rx="32" fill="url(#bg)"/>
+  <circle cx="1130" cy="120" r="94" fill="#FDEFE8"/>
+  <circle cx="1070" cy="500" r="132" fill="#F6E8F5"/>
+  <circle cx="170" cy="530" r="118" fill="#E4EEF8"/>
+
+  <rect x="72" y="72" width="134" height="42" rx="21" fill="#FCEBED"/>
+  <text x="96" y="99" fill="#8C6A6D" font-family="Arial, sans-serif" font-size="20" font-weight="700">ANDROID APP</text>
+
+  <text x="72" y="198" fill="#2D241D" font-family="Arial, sans-serif" font-size="76" font-weight="700">WhatToDo</text>
+  <text x="72" y="264" fill="#6E5D61" font-family="Arial, sans-serif" font-size="28">A cozy task planner with schedule, focus, analytics,</text>
+  <text x="72" y="304" fill="#6E5D61" font-family="Arial, sans-serif" font-size="28">and optional Firebase sync.</text>
+
+  <rect x="72" y="356" width="170" height="54" rx="27" fill="#2D241D"/>
+  <text x="106" y="390" fill="#FFFDFB" font-family="Arial, sans-serif" font-size="22" font-weight="700">Kotlin + Room</text>
+
+  <rect x="258" y="356" width="192" height="54" rx="27" fill="#FFFFFF" stroke="#EADCE2" stroke-width="2"/>
+  <text x="294" y="390" fill="#8A767C" font-family="Arial, sans-serif" font-size="22" font-weight="700">Firebase Ready</text>
+
+  <g filter="url(#shadow)">
+    <rect x="700" y="90" width="424" height="460" rx="34" fill="url(#card)" stroke="#EADCE2" stroke-width="2"/>
+    <rect x="730" y="124" width="120" height="18" rx="9" fill="#F9DCE4"/>
+    <rect x="730" y="160" width="210" height="18" rx="9" fill="#2D241D"/>
+    <rect x="730" y="192" width="286" height="14" rx="7" fill="#8A767C" fill-opacity="0.45"/>
+
+    <rect x="730" y="236" width="364" height="92" rx="24" fill="#FFF1F6"/>
+    <circle cx="770" cy="282" r="19" fill="#F3C9D3"/>
+    <rect x="804" y="260" width="136" height="14" rx="7" fill="#2D241D"/>
+    <rect x="804" y="286" width="118" height="12" rx="6" fill="#8A767C" fill-opacity="0.55"/>
+    <rect x="982" y="262" width="78" height="34" rx="17" fill="#FFFFFF" stroke="#EADCE2" stroke-width="2"/>
+    <text x="1001" y="284" fill="#8C6D72" font-family="Arial, sans-serif" font-size="16" font-weight="700">Today</text>
+
+    <rect x="730" y="346" width="170" height="170" rx="28" fill="#FFFFFF" stroke="#EADCE2" stroke-width="2"/>
+    <rect x="924" y="346" width="170" height="170" rx="28" fill="#FFFFFF" stroke="#EADCE2" stroke-width="2"/>
+
+    <text x="761" y="386" fill="#8A767C" font-family="Arial, sans-serif" font-size="18" font-weight="700">Focus</text>
+    <circle cx="815" cy="443" r="44" fill="#FDEFE8" stroke="#EADCE2" stroke-width="2"/>
+    <text x="793" y="450" fill="#2D241D" font-family="Arial, sans-serif" font-size="24" font-weight="700">25m</text>
+    <rect x="761" y="476" width="108" height="12" rx="6" fill="#F3C9D3"/>
+
+    <text x="956" y="386" fill="#8A767C" font-family="Arial, sans-serif" font-size="18" font-weight="700">Data</text>
+    <path d="M953 472L985 436L1015 452L1064 402" stroke="#B86D7C" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="953" cy="472" r="7" fill="#B86D7C"/>
+    <circle cx="985" cy="436" r="7" fill="#B86D7C"/>
+    <circle cx="1015" cy="452" r="7" fill="#B86D7C"/>
+    <circle cx="1064" cy="402" r="7" fill="#B86D7C"/>
+    <rect x="950" y="486" width="98" height="12" rx="6" fill="#E4EEF8"/>
+  </g>
+
+  <g transform="translate(602 414)">
+    <circle cx="0" cy="0" r="58" fill="#FFFDFB"/>
+    <path d="M-34 -18L-46 -42L-22 -30Z" fill="#F9DCE4"/>
+    <path d="M34 -18L22 -30L46 -42Z" fill="#F9DCE4"/>
+    <circle cx="0" cy="10" r="48" fill="#FDE6D4"/>
+    <circle cx="-13" cy="1" r="6" fill="#2D241D"/>
+    <circle cx="13" cy="1" r="6" fill="#2D241D"/>
+    <path d="M-5 16L0 21L5 16L0 12Z" fill="#F3C9D3"/>
+    <path d="M-9 24C-7 19 -2 16 0 16C2 16 7 19 9 24" stroke="#2D241D" stroke-width="3" stroke-linecap="round"/>
+    <path d="M-37 11H-17" stroke="#2D241D" stroke-width="3" stroke-linecap="round"/>
+    <path d="M17 11H37" stroke="#2D241D" stroke-width="3" stroke-linecap="round"/>
+    <path d="M-35 25H-15" stroke="#2D241D" stroke-width="3" stroke-linecap="round"/>
+    <path d="M15 25H35" stroke="#2D241D" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>
