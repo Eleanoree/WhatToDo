@@ -136,29 +136,3 @@ Firebase is optional for local development, but required for Google sign-in and 
 7. Add your SHA-1 fingerprint in Firebase project settings.
 
 The `google-services.json` file is intentionally ignored by git and should never be committed to a public repository.
-
-## Development Roadmap
-
-<p align="center">
-  <img src="./docs/roadmap-card.svg" alt="Development roadmap illustration" width="100%" />
-</p>
-
-- Replace README illustration panels with real device screenshots or a short demo GIF
-- Split large UI classes into smaller feature-focused files
-- Add unit tests for repository logic and repeat-rule calculations
-- Add instrumentation tests for critical task and focus flows
-- Add CI for build verification, lint, and test execution
-- Improve export / backup options beyond Firebase sync
-
-## Notes
-
-- The app currently seeds demo or preview data to support development and UI presentation.
-- Without Firebase setup, local task and focus features still work normally.
-
-## License
-
-No license has been added yet. If this repository will stay public, adding a license is strongly recommended.
-
-<p align="center">
-  <img src="./docs/footer-mascot.svg" alt="Footer mascot illustration" width="100%" />
-</p>
